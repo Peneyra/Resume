@@ -1,0 +1,363 @@
+education:
+  bachelors:
+    coursework:
+      ASTR 1030 Accelerated Introductory Astronomy 1: The course covers the principles
+        of modern astronomy and summarizes current knowledge about the Earth, Sun,
+        moon, and planets, as well as the origin of life2. It requires nighttime observation
+        sessions1.... ASTR 1030 is required for ASTR majors/minors. It is taught at
+        a higher intellectual level with a significant amount of quantitative analysis,
+        similar to ASTR 1000 and 10102.
+      ASTR 1040 Accelerated Introductory Astronomy 2: It covers the principles of
+        modern astronomy, summarizing present knowledge about the Sun, stars, the
+        birth and death of stars, neutron stars, black holes, galaxies, quasars, and
+        the organization and origins of the universe4. May require nighttime observing
+        sessions4. It is required for ASTR majors/minors and includes a recitation4.
+        Taught at a higher intellectual level including a significant amount of quantitative
+        analysis.
+      ASTR 2000 Ancient Astronomies of the World: This course documents the ways in
+        which observational astronomy and cosmology have been features of ancient
+        cultures. It includes naked-eye astronomy, archaeoastronomy, ethnoastronomy,
+        concepts of time, calendrics, cosmogony, and cosmology.
+      ASTR 3730 Astrophysics 1 - Stellar and Interstellar: Provides a quantitative
+        introduction to the radiative and gravitational physics relevant to stellar
+        and galactic astrophysics, as applied to understanding observations of tars,
+        stellar evolution, stellar remnants and the structure of the Milky Way6. It
+        is an elective for APS majors and minors.
+      ASTR 3740 Cosmology and Relativity: Special and general relativity as applied
+        to astrophysics, cosmological models, observational cosmology, experimental
+        relativity and the early universe. It is an elective for APS majors and minors.
+      ASTR 3830 Astrophysics 2 - Galactic and Extragalactic: The second semester of
+        a year-long introduction to astrophysical processes8. The physical processes
+        developed in ASTR 3730 are applied to topics in extragalactic astronomy, including
+        galaxies, supermassive black holes, galaxy clusters and cosmology. It is an
+        elective for APS majors and minors.
+      MATH 1300 Calculus 1: Topics include limits, derivatives of algebraic and transcendental
+        functions, applications of the derivative, integration, and applications of
+        the definite integral. Students who have already earned college credit for
+        calculus 1 are eligible to enroll in this course if they want to solidify
+        their knowledge base in calculus 1.
+      MATH 2300 Calculus 2: Continuation of MATH 1300. Topics include transcendental
+        functions, methods of integration, polar coordinates, differential equations,
+        improper integrals, infinite sequences and series, Taylor polynomials, and
+        Taylor series.
+      MATH 3001 Analysis 1: Provides a rigorous treatment of the basic results from
+        elementary Calculus. Topics include the topology of the real line, sequences
+        of numbers, continuous functions, differentiable functions, and the Riemann
+        integral.
+      MATH 4510 Introduction to Probability Theory: Studies axioms, combinatorial
+        analysis, independence and conditional probability, discrete and absolutely
+        continuous distributions, expectation and distribution of functions of random
+        variables, laws of large numbers, central limit theorems, and simple Markov
+        chains if time permits.
+      MATH 5470 Partial Differential Equations: Studies initial, boundary, and eigenvalue
+        problems for the wave, heat, and potential equations. Solution by separation
+        of variables, Green's function, and variational methods.
+      PHYS 1110 General Physics 1: Covers kinematics, dynamics, momentum of particles
+        and rigid bodies, work and energy, gravitation, and simple harmonic motion.
+      PHYS 1120 General Physics 2: Three lect., one rec. per week, plus three evening
+        exams in the fall and spring semesters. Second semester of three-semester
+        introductory sequence for science and engineering students. Covers electricity
+        and magnetism, wave motion and optics. Normally is taken concurrently with
+        PHYS 1140.
+      PHYS 1140 Experimental Physics 1: Introduces experimental physics through laboratory
+        observation of a wide range of phenomena. Covers experiments on physical measurements,
+        including mechanics, electricity & magnetism, and optics, with the mathematical
+        analysis of physical errors associated with the experimental process.
+      PHYS 3210 Class Mech & Math Meth 2: Lagrangian and Hamiltonian treatment of
+        theoretical mechanics, including coupled oscillations, waves in continuous
+        media, central force motion, rigid body motion and fluid dynamics. The calculus
+        of variations, linear algebra, tensor algebra, vector calculus, and partial
+        differential equations will be introduced in the context of the mechanics.
+      PHYS 3220 Quantum Mech/Atom Physcis 1: Introduces quantum mechanics with wave,
+        operator and matrix computational techniques. Investigates solutions for harmonic
+        oscillator, potential well and systems with angular momentum. Develops a quantitative
+        description of one-electron atoms in lowest order.
+      PHYS 3310 Prin Elec-Magnetism 1: Covers mathematical theory of electricity and
+        magnetism, including electrostatics, magnetostatics, and polarized media,
+        and provides an introduction to electromagnetic fields, waves, and special
+        relativity.
+      PHYS 3320 Prin Elec-Magnetism 2: Continuation of PHYS 3310. Electromagnetic
+        induction; magnetic energy; microscopic theory of magnetic properties; Ac
+        circuits; Maxwell's Equations; planewaves; waveguides and transmission lines;
+        radiation from electric and magnetic dipoles and from an accelerated charge.
+      PHYS 3330 Electronics Physical Sciences: (No description provided in the sources).
+      PHYS 4230 Thermodynam Stat Mech: Statistical mechanics applied to macroscopic
+        physical systems; statistical thermodynamics, classical thermodynamics systems;
+        applications to simple systems. Examines relationship of statistical to thermodynamic
+        points of view.
+      PHYS 4410 Quantum Mech/Atomics Phys 2: Extends quantum mechanics to include
+        perturbation theory and its applications to atomic fine structure, multi-particle
+        systems, interactions with external forces, the periodic table and dynamical
+        processes including electromagnetic transition rates.
+      PHYS 5770 Gravitational Theory: Presents Einstein's relativistic theory of gravitation
+        from geometric viewpoint; gives applications to astrophysical problems (gravitational
+        waves, stellar collapse, etc.).
+    degree: Bachelors of Arts (B.A.)
+    school: University of Colorado, Boulder
+    subject:
+    - Mathematics
+    - Astrophysics
+    year: 2011
+  masters:
+    coursework:
+      MATH 602 Methods of Applied Partial Differential Equations: Methods for finding
+        solutions to partial differential equations that arise in science and engineering
+        [source not provided].
+      MATH 609 Numerical Analysis: 'Interpolation, numerical evaluation of definite
+        integrals and solution of ordinary differential equations; stability and convergence
+        of methods and error estimates. Prerequisite: Knowledge of computer programming
+        (C or FORTRAN).'
+      MATH 610 Numerical Methods in Partial Differential Equations: Introduction to
+        finite difference and finite element methods for solving partial differential
+        equations; stability and convergence of methods and error bounds.
+      MATH 629 History Of Mathematics: Major events in the evolution of mathematical
+        thought from ancient times to the present, the development of various important
+        branches of mathematics, including numeration, geometry, algebra, analysis,
+        number theory, probability, and applied mathematics. Theory and development
+        of cryptographic techniques including a formalization of Cryptographic Theory,
+        the formulation of Rivest, Shamir, Adleman (RSA) algorithms and Eccentric
+        Curve Cryptography (ECC) algorithms1.
+      MATH 639 Iterative Techniques: Numerical methods for solving linear and nonlinear
+        equations and systems of equations; eigenvalue problems. Numerical methods
+        for solving linear and nonlinear equations such as Finite Element, Gaussian
+        Quadrature, and Jacobian methods1.
+      MATH 640 Linear Algebra for Applications: Review of linear algebra; spectral
+        theory in inner product spaces; decomposition theorems; duality theory and
+        multilinear algebra; tensor products; applications.
+      MATH 645 A Survey of Mathematical Problems I: A survey of problems in various
+        branches of mathematics, such as logic, probability, graph theory, number
+        theory, algebra and geometry.
+      MATH 660/CSCE 660 Computational Linear Algebra: Techniques in matrix computation
+        including elimination methods, matrix decomposition, generalized inverses,
+        orthogonalization and least-squares, eigenvalue problems and singular value
+        decomposition, iterative methods and error analysis.
+      MATH 664 Seminar Applied Math: Problems, methods and recent developments in
+        applied mathematics.
+      MATH 685 Directed Studies: Offered to enable students to undertake and complete,
+        with credit, limited investigations not within their thesis research and not
+        covered by any other courses in the curriculum.
+      MATH 696 Math Comm Technology: Techniques of effective oral, written and electronic
+        communication of mathematics; introduction to contemporary computing tools.
+    degree: Master of Science (M.S.)
+    school: Texas A&M University
+    subject: Computational Mathematics
+    year: 2020
+  publication:
+    authors:
+    - Clelland, J.
+    - Estrada, E.
+    - May, M.
+    - Miller, J.
+    - Peneyra, S.
+    - Schmidt, M.
+    date: July 2014
+    journal: Proceedings of the American Mathematical Society
+    number: 7
+    page: 2543-2558
+    title: 'A Tale of Two Arc Lengths: Metric Notions for Curves in Surfaces in Equiaffine
+      Space.'
+    volume: 142
+    website: https://doi.org/10.48550/arXiv.1205.0065
+email: peneyra.s@gmail.com
+location: Silverdale, WA 98383
+name: Sean Peneyra
+phone: (925)348-5968
+professional experience:
+- Google Public Sector - SLED & Federal:
+  - Cloud Program Manager (SkillBridge Fellow):
+      bullets:
+      - PM for the development of a Gemini-based Adjudication Assistant for New Hampshire
+        Employment Security, leveraging Gen-AI for fact-finding and compliance assurance.
+        This initiative aimed to significantly alleviate workload constraints caused
+        by a critical shortage of experienced adjudicators statewide.
+      - "PM for the development of a Google Cloud infrastructure setup and modernization\
+        \ for Colorado\u2019s State Verification and Exchange System (SVES). The updated\
+        \ SVES application will leverage cloud architecture, security, and authentication\
+        \ systems to provide a modernized workflow and user interface."
+      - "PM for the development and integration of a scalable, cloud based, and API-centered\
+        \ platform for the US Air Force Rapid Sustainment Office\u2019s (RSO) Lighthouse\
+        \ Integration Technology Engine (LITE) for distributed functionality across\
+        \ aircraft maintenance management software. This project will provide a flexible,\
+        \ secure, and scalable solution to daily maintenance activities and flightline\
+        \ operations."
+      location: Remote
+      timeend: Present
+      timestart: January 2025
+- Submarine Officer, Lieutenant Commander, United States Navy (DoD):
+  - "Group Operations Director \u2013 Command Task Group 114.3":
+      bullets:
+      - Developed Python software which utilizes discrete Fourier transforms and numerical
+        change of basis to accomplish 1 to 4500 compression of weather images, enabling
+        transmission of critical operational planning information to submarines with
+        limited bandwidth, enhancing the safety and efficacy of worldwide submarine
+        operations. This saved the Navy $150,000 in software development costs.
+      - Authored precise execution orders to enable seamless integration across diverse
+        military platforms during key operations, resulting in the first successful
+        30-day replenishment of an at-sea ballistic missile submarine, extending the
+        operational availability of a single unit by 40% to enhance strategic readiness
+        of the forces. The underway replenishment provided a $250,000 cost savings
+        compared to alternative methods of extending submarine operations.
+      - Authored precise execution orders to enable seamless integration across diverse
+        military platforms during key operations, resulting in the inaugural integrated
+        operations between A-10 airframes and an SSBN, which created a new method
+        of providing underway force protection to a ballistic missile submarine, enhancing
+        the security and safety of the force.
+      - Directed, led, and managed the day-to-day operations of seven Ballistic Missile
+        Submarines and 2,500 sailors in the Pacific, managing long term schedules
+        and the strategic outlook for the force, using predictive metrics to optimize
+        asset availability and generate executive level reports, ensuring the effective
+        utilization of ~$14B in assets and operating costs, while collaborating with
+        global stakeholders to optimize the allocation of operational time for these
+        seven Ballistic Missile Submarines, maximizing the achievement of strategic
+        priorities. Successfully ensured mission readiness and operational effectiveness
+        through cross-organizational planning, resource allocation, and performance
+        management. Analyzed historical submarine utilization data to compare operational
+        schedules against the Ohio-class model, identifying imbalances in unit deployment
+        cycles. Leveraged these insights to project and refine future schedules, resulting
+        in a 10% increase in overall operational availability.
+      location: Bangor, WA
+      timeend: Present
+      timestart: March 2024
+  - "Unit Operations Director \u2013 USS Henry M Jackson (SSBN 730)":
+      bullets:
+      - Developed a Visual Basic application to automate a manual process for processing
+        and visualization of maritime traffic data, reducing processing time by 90%.
+        This application ingested Integrated Broadcast System CSV files, extracted
+        key information, and generated KML files for display on Google Earth, enabling
+        long-term tracking of merchant vessels and enhancing submarine safety during
+        submerged operations.
+      - Developed a reproducible pseudo-random image using RSA algorithms to simulate
+        background noise. This image was used in a sonar training simulation, demonstrating
+        the practical application of cryptographic principles and teaching early submariners
+        the fundamentals of contact management.
+      - Spearheaded the planning and execution of four submarine patrols, writing
+        the daily operational schedule to balance competing priorities across four
+        departments and multiple stakeholders. Required to schedule, track, and report
+        on multiple long-term projects for research and development. Self driven work
+        ethic and excellent interpersonal and communication skills led to being recognized
+        as the top-ranking department head among 56 peers.
+      - Used engineering drawings to develop tailored troubleshooting and repair plans,
+        ensuring rapid resolution of equipment failures for systems worth $100M, minimizing
+        downtime and optimizing operational readiness.
+      - "Developed and maintained the ship\u2019s website using html, css, js, and\
+        \ php, consolidating key documents, streamlining access to resources, and\
+        \ helping with the dissemination of information."
+      - Oversaw the maintenance and operations of communication, electronic warfare,
+        and navigation equipment aboard the submarine, leading a team of 7 direct
+        reports and 30 indirect reports.
+      - Led a watch team responsible for the effective and safe operation of the ballistic
+        missile submarine in a fast-paced, high-stakes environment, serving as the
+        lead decision maker during simulated wartime scenarios.
+      location: Bangor, WA
+      timeend: March 2024
+      timestart: October 2020
+  - "Scheduling Director \u2013 Command Seventh Fleet":
+      bullets:
+      - Directed mission, maintenance, and training schedules for 70 ships, 150 aircraft,
+        and 27,000 sailors. Also integrated Carrier Strike Group operations across
+        an Aircraft Carrier, 2 Cruisers, 4 Destroyers, 3 Airwings and 7,500 sailors.
+        These efforts contributed to operational readiness in the INDOPACIFIC region,
+        the Navy's largest forward-deployed fleet, and supported power projection
+        and joint exercises with Pacific partners during four 3-month patrols.
+      - Developed a database of operational metrics to automate readiness reporting,
+        which was previously a manual data-gathering process. This streamlined asset
+        allocation decisions, reducing report generation time by 90% and report generation
+        costs by $50K annually.
+      - Developed a suite of Visual Basic programs coupled with Excel to predict operational
+        metrics and identify capability gaps in ship schedules. This enabled executive-level
+        decision-makers to make data-driven decisions to allocate resources.
+      - Collaborated with multiple stakeholders to prioritize asset allocation across
+        the largest naval fleet in the world and ensured effective strategic messaging
+        to regional partners.
+      location: Yokosuka, Japan
+      timeend: October 2020
+      timestart: May 2017
+  - "Submarine Warfare Officer \u2013 USS Pasadena (SSN 752)":
+      bullets:
+      - Directed a team of 40 personnel across nuclear reactor controls and tactical
+        weapons systems, enforcing rigorous maintenance, operations, and training
+        standards while meticulously managing training, certification, audit, and
+        surveillance programs.
+      - Coordinated 26 watch standers in operating and maintaining a nuclear submarine
+        in a high-stress environment, directly contributing to missions vital to national
+        security.
+      - Spearheaded the first submarine-launched drone program to be used in theater,
+        leading training, certification, and operations for four drone pilots, and
+        assisting in the development of operational doctrine, which resulted in the
+        first-ever drone operation from a submarine while on mission.
+      - Demonstrated expertise in communicating complex technical concepts, evidenced
+        by earning qualification as an Engineering Officer in the Navy Nuclear Propulsion
+        program.
+      location: San Diego, CA
+      timeend: May 2017
+      timestart: April 2013
+professional summary:
+- A highly motivated and results-oriented Technical Program Manager with 11+ years
+  of experience leveraging a Top Secret/Sensitive Compartmentalized Information (SCI)
+  Clearance. Adept at bridging technical complexities and strategic decision-making,
+  with a proven ability to manage multiple stakeholders and drive the successful completion
+  of projects in high-stakes environments. Employs data-driven decision-making to
+  optimize resource allocation and ensure mission readiness. Committed to continuous
+  learning and staying at the forefront of technological advancements, as demonstrated
+  by ongoing preparation for the Google Professional Cloud Architect (GCP) certification.
+- Data-driven analyst with an M.S. in Computational Mathematics and over 10 years
+  of experience applying mathematical principles and programming skills to solve complex
+  problems. Proven ability to extract insights from large datasets and develop effective
+  solutions. Passionate about developing simple solutions to complex problems and
+  committed to continuous upskilling as evidenced by ongoing preparation for the Google
+  Professional Cloud Architect certification. Exhibits enthusiasm for mathematics
+  and its applications in data analysis and problem-solving.
+- Results-oriented with over 10 years of experience leveraging programming skills
+  to analyze data and develop effective solutions. Proficient in multiple programming
+  languages, including Python, MATLAB, SQL, Java, and Visual Basic. Proven ability
+  to automate processes, streamline workflows, and develop scalable applications.
+  Adept at collaborating with stakeholders to identify requirements, design solutions,
+  and deliver high-quality software products. Committed to continuous learning and
+  staying at the forefront of technological advancements, as demonstrated by ongoing
+  preparation for the Google Professional Cloud Architect (GCP) certification.
+skills:
+  programming and software:
+    certification:
+    - Preparing for Google Professional Cloud Architecture (PCA)
+    languages:
+    - Python
+    - MATLAB
+    - SQL
+    - Java
+    - Maple
+    - Mathematica
+    - Visual Basic for Applications
+    software:
+    - Google Workspace
+    - Git Hub
+    - Microsoft Office
+    - HTML
+    - Visual Studio
+  soft skills:
+  - Data Analysis
+  - Applied Mathematics
+  - Analytical Thinking
+  - Algorithmic Processing
+  - Engineering Mindset
+  - Cryptography RSA, AES, ECC Techniques
+  - Advanced Physics
+  - Operations Management
+  - Strategic Planning
+  - Critical Thinking
+  - Problem Solving
+  - Creative Solution Building
+  - Leadership/Team Building
+  - Executive Communication
+  - Coordination/Collaboration
+  - Process Improvement
+  - Change Management
+  - Policy Implementation
+  - Customer Focused
+  - Empathetic Communication
+  - Self-Starter
+  - Decision Making
+  - Innovation
+  - People-centric Leader
+website:
+- www.linkedin.com/in/peneyra
+- www.github.com/peneyra

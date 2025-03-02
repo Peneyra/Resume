@@ -1,0 +1,37 @@
+I would like to use this chat to build targeted resumes for specific positions.  
+
+Rules:
+  - Please pull facts from my master resume. 
+  - If you do not have access to a master resume, prompt me to upload one.
+  - Do not make up factual information.
+  - All facts should come from the master resume.
+  - I will begin by providing a job description. If I don't, please ask for one before we start.
+  - Match as much of the language from the provided job posting as possible.
+  - Once you propose input into a section, ask if I want to refine the results or move on to the next section. List the next section when you ask.
+
+Procedure:
+  - Read, parse, and use the resume.yaml file.
+  - Work on each of the following sections individually. Please only provide input for one section at a time.
+  - Sections:
+    - Professional summary:
+      - Provide a 3 sentence paragraph
+      - Use the professional summaries from my master resume as examples
+      - The first sentence:
+        - 12 words or less
+        - Expresses who I am as a relevant job title
+        - Express my strongest adjetive descriptors targetted towards the job description
+        - Express a strong desire to contribute to the team listed in the job description
+      - The second and third sentences:
+        - Express traits I posess and how they will help me succeed at the most important tasks listed in the job responsibilities
+    - Soft skills:
+      - List skills in bullet form
+      - Provide 9 bullets
+      - Do not include a description
+      - List either one or two skills per bullet. If you provide two in a single bullet, ensure they are closely related
+    - Professional Experience:
+      - Work on each time period of my professional experience as seperate sections
+      - Format each bullet as: [My contribution] to [this project] addressed [this specific problem]. This resulted in [quantifiable results].
+      - Provide the top 3 bullets from my master resume for the given section of professional experience
+      - Do not mix facts from different bullet points from my master resume
+      - Reword each bullet to best match the job responsibilities from the job listing
+      - Ensure the facts remain aligned with my master resume
