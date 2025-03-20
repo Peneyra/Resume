@@ -170,27 +170,29 @@ professional experience:
         Employment Security, leveraging Gen-AI for fact-finding and compliance assurance.
         This initiative aimed to significantly alleviate workload constraints caused
         by a critical shortage of experienced adjudicators statewide.
-      - "PM for the development of a Google Cloud infrastructure setup and modernization\
-        \ for Colorado\u2019s State Verification and Exchange System (SVES). The updated\
-        \ SVES application will leverage cloud architecture, security, and authentication\
-        \ systems to provide a modernized workflow and user interface."
-      - "PM for the development and integration of a scalable, cloud based, and API-centered\
-        \ platform for the US Air Force Rapid Sustainment Office\u2019s (RSO) Lighthouse\
-        \ Integration Technology Engine (LITE) for distributed functionality across\
-        \ aircraft maintenance management software. This project will provide a flexible,\
-        \ secure, and scalable solution to daily maintenance activities and flightline\
-        \ operations."
+      - PM for the development of a Google Cloud infrastructure setup and modernization
+        for Colorado\u2019s State Verification and Exchange System (SVES). The updated
+        SVES application will leverage cloud architecture, security, and authentication
+        systems to provide a modernized workflow and user interface.
+      - PM for the development and integration of a scalable, cloud based, and API-centered
+        platform for the US Air Force Rapid Sustainment Office (RSO) Lighthouse
+        Integration Technology Engine (LITE) for distributed functionality across
+        aircraft maintenance management software. This project will provide a flexible,
+        secure, and scalable solution to daily maintenance activities and flightline
+        operations.
       location: Remote
       timeend: Present
       timestart: January 2025
 - Submarine Officer, Lieutenant Commander, United States Navy (DoD):
   - "Group Operations Director \u2013 Command Task Group 114.3":
       bullets:
-      - Developed Python software which utilizes discrete Fourier transforms and numerical
-        change of basis to accomplish 1 to 4500 compression of weather images, enabling
-        transmission of critical operational planning information to submarines with
-        limited bandwidth, enhancing the safety and efficacy of worldwide submarine
-        operations. This saved the Navy $150,000 in software development costs.
+      - Was the sole full stack developer for Python software which utilizes discrete 
+        Fourier transforms and numerical change of basis to accomplish 1 to 4500 compression 
+        of weather images, enabling transmission of critical operational planning information 
+        to submerged submarines with severley limited bandwidth. This addressed a critical 
+        capability gap in the submarine communications infrastructure and enhanced safety 
+        of operations for the submarine force. This saved the Navy $150,000 in software 
+        development costs.
       - Authored precise execution orders to enable seamless integration across diverse
         military platforms during key operations, resulting in the first successful
         30-day replenishment of an at-sea ballistic missile submarine, extending the
@@ -239,15 +241,16 @@ professional experience:
       - Used engineering drawings to develop tailored troubleshooting and repair plans,
         ensuring rapid resolution of equipment failures for systems worth $100M, minimizing
         downtime and optimizing operational readiness.
-      - "Developed and maintained the ship\u2019s website using html, css, js, and\
-        \ php, consolidating key documents, streamlining access to resources, and\
-        \ helping with the dissemination of information."
+      - Developed and maintained the ship\u2019s website using html, css, js, and
+        php, consolidating key documents, streamlining access to resources, and
+        helping with the dissemination of information.
       - Oversaw the maintenance and operations of communication, electronic warfare,
         and navigation equipment aboard the submarine, leading a team of 7 direct
         reports and 30 indirect reports.
       - Led a watch team responsible for the effective and safe operation of the ballistic
         missile submarine in a fast-paced, high-stakes environment, serving as the
         lead decision maker during simulated wartime scenarios.
+      - Managed information security onboard the submarine and 
       location: Bangor, WA
       timeend: March 2024
       timestart: October 2020
@@ -257,7 +260,7 @@ professional experience:
         and 27,000 sailors. Also integrated Carrier Strike Group operations across
         an Aircraft Carrier, 2 Cruisers, 4 Destroyers, 3 Airwings and 7,500 sailors.
         These efforts contributed to operational readiness in the INDOPACIFIC region,
-        the Navy's largest forward-deployed fleet, and supported power projection
+        the Navys largest forward-deployed fleet, and supported power projection
         and joint exercises with Pacific partners during four 3-month patrols.
       - Developed a database of operational metrics to automate readiness reporting,
         which was previously a manual data-gathering process. This streamlined asset
